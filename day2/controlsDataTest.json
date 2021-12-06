@@ -1,0 +1,26 @@
+[
+    {
+        "cmd": "forward",
+        "value": 5
+    },
+    {
+        "cmd": "down",
+        "value": 5
+    },
+    {
+        "cmd": "forward",
+        "value": 8
+    },
+    {
+        "cmd": "up",
+        "value": 3
+    },
+    {
+        "cmd": "down",
+        "value": 8
+    },
+    {
+        "cmd": "forward",
+        "value": 2
+    }
+]
